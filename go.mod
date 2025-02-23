@@ -1,4 +1,4 @@
-module github.com/cmschuetz/btops
+module github.com/antdavidlima/btops
 
 go 1.21.6
 
