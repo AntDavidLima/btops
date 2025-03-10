@@ -11,7 +11,7 @@ Often times a workflow for a given day can't be defined by a set number of deskt
 ## Examples
 
 - [Dynamic with classified renamers](https://github.com/AntDavidLima/btops/blob/master/examples/classified.toml)
-- [Minmax with numeric renamer](https://github.com/cmschuetz/btops/blob/master/examples/minmax.toml)
+- [Minmax with numeric renamer](https://github.com/antdavidlima/btops/blob/master/examples/minmax.toml)
 - [Static](https://github.com/AntDavidLima/btops/blob/master/examples/static.toml)
 
 ## Configuration
@@ -23,7 +23,7 @@ $XDG_CONFIG_HOME/btops/config.*
 ~/.config/btops/config.*
 ```
 
-Below are the different configuration options available. Please look at [examples](https://github.com/cmschuetz/btops/tree/master/examples) for example usage
+Below are the different configuration options available. Please look at [examples](https://github.com/antdavidlima/btops/tree/master/examples) for example usage
 
 ### Configuration Options
 
