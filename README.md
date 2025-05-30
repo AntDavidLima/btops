@@ -10,9 +10,9 @@ Often times a workflow for a given day can't be defined by a set number of deskt
 
 ## Examples
 
-- [Dynamic with classified renamers](https://github.com/AntDavidLima/btops/blob/master/examples/classified.toml)
+- [Dynamic with classified renamers](https://github.com/antdavidlima/btops/blob/master/examples/classified.toml)
 - [Minmax with numeric renamer](https://github.com/antdavidlima/btops/blob/master/examples/minmax.toml)
-- [Static](https://github.com/AntDavidLima/btops/blob/master/examples/static.toml)
+- [Static](https://github.com/antdavidlima/btops/blob/master/examples/static.toml)
 
 ## Configuration
 
@@ -61,9 +61,9 @@ names configuration object
 ## Installation
 
 - Ensure [Go](https://go.dev/) is installed and your [$GOPATH](https://go.dev/wiki/GOPATH) is set
-- `go install https://github.com/AntDavidLima/btops@latest`
+- `go install github.com/antdavidlima/btops@latest`
 - run `$GOPATH/bin/btops`
 
 ### Arch Linux
 
-[btops-keep-focused-git](https://aur.archlinux.org/packages/btops-keep-focused-git/) is available in the aur
+[btops-git](https://aur.archlinux.org/packages/btops-git/) is available in the aur
